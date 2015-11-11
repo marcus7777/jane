@@ -1,0 +1,5 @@
+#Options Includes
+#Redirect http://janegosney.co.uk/ http://janegosney.co.uk/index.html
+#order deny,allow
+#deny from all
+allow from all
